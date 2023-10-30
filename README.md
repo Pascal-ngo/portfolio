@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Tensorflow
 
 ## Education
-Data science diploma | WeCloudData bootcamp in Canada (_November 2023_)
-Bachelor's Degree in Economics, Management | CNAM in France (_June 2019_)
-French teaching certification (DAEFLE) | Alliance Française (France) (_June 2016_)
+##### Data science diploma - WeCloudData bootcamp in Canada (_November 2023_)
+##### Bachelor's Degree in Economics, Management - CNAM in France (_June 2019_)
+##### French teaching certification (DAEFLE) - Alliance Française (France) (_June 2016_)
 
 ## Work Experience
 **Senior Customer sucess Manager @ Dext Canada (August 2019 - Present)**

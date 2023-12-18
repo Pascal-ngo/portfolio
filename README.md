@@ -24,7 +24,9 @@ Data visualization: Tableau, Power BI, Quicksight | Big data: Apache Spark, Hado
 •	Significant achievements: Increased product sales by 120% in the French market.
 
 
-## Personnal Projects
+## Personal Projects
+
+### Big data – Tweets Sentiment visualization on Quicksight
 
 ### Big data – Tweets Sentiment prediction
 Used Spark ML on Databricks to train a sentiment classification model based on Elon Musk’s tweets collected from a S3 bucket. 

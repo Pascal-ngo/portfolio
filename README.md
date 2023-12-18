@@ -11,6 +11,7 @@ Data visualization: Tableau, Power BI, Quicksight | Big data: Apache Spark, Hado
 
 ## Work Experience
 **Senior Customer sucess Manager @ Dext Canada (August 2019 - Present)**
+
 •	Work with accounting and bookkeeping firms from sole practitioners to large accounts as Grant Thornton and EY. Territory: Canada and USA East coast.
 •	Conduct technical pre-sales and post-sales onboarding trainings, build engagement and retention plans across firms with executives, IT and their customers. Pre-sales conversion: 92%
 •	Build consultative and process improvement sessions in-person and by remote calls. Evangelize customer success stories with top software advocates to new prospects in Canada and, USA trade shows.
@@ -18,6 +19,7 @@ Data visualization: Tableau, Power BI, Quicksight | Big data: Apache Spark, Hado
 
 
 **Marketing Department @ Sharkoon Taiwan (August 2018 - April 2019)**
+
 •	Introduced new products to the French market and led the brand awareness campaign on social media. 
 •	Planned and executed new marketing online initiatives with Youtubers and Magazines: 8 partnerships consolidated. 
 •	Provided user support to any questions regarding hardware and peripherals. 

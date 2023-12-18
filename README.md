@@ -30,20 +30,20 @@ Data visualization: Tableau, Power BI, Quicksight | Big data: Apache Spark, Hado
 
 ### Big data – Tweets Sentiment prediction
 Used Spark ML on Databricks to train a sentiment classification model based on Elon Musk’s tweets collected from a S3 bucket. 
-Objective: Predictive insight on Musk’s tweets global impact
-Impact: 96% accuracy score to predict sentiments.
+Objective: Predictive insight on Musk’s tweets global impact.
+- Impact: 96% accuracy score to predict sentiments.
 
 ### Machine learning project - Credit card fraud detection 
 Simulated credit card transaction dataset created by Brandon Harris. This simulation was run for the duration - 1 Jan 2019 to 31 Dec 2020
 +1M rows and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants
 The overarching goal is to devise an effective machine learning model to detect potentially fraudulent credit card transactions
-- Impact: 98% precision model. Focus on lower False positives count
+- Impact: 98% precision model. Focus on lower False positives count.
 
 ### Web Scraping project - Steam (Video Games Industry)
 Scraped the Top sellers section from Steam website using Selenium/Beautiful soup and visualizations on Python
 70000 games available reduced to 6500 top sellers
 Customer reviews focus: best reviewed games, most negatively received games, paid vs free games
-- Impact: Delivered insights based on reviews to developers, trends
+- Impact: Delivered insights based on reviews to developers, trends.
 
 
 

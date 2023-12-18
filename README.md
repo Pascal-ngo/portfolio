@@ -33,7 +33,7 @@ Used Spark ML on Databricks to train a sentiment classification model based on E
 Objective: Predictive insight on Musk’s tweets global impact.
 - Impact: 96% accuracy score to predict sentiments.
 
-### Machine learning project - Credit card fraud detection 
+### Machine learning project - Credit card fraud detection - Authors: Pascal Ngo, Pierre Diop, Narayan Iyer
 Simulated credit card transaction dataset created by Brandon Harris. This simulation was run for the duration - 1 Jan 2019 to 31 Dec 2020
 +1M rows and it covers credit cards of 1000 customers doing transactions with a pool of 800 merchants
 The overarching goal is to devise an effective machine learning model to detect potentially fraudulent credit card transactions
